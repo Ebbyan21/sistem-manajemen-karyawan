@@ -5,7 +5,7 @@
 
 # Sistem Manajemen Karyawan Berbasis Laravel
 
-Aplikasi ini merupakan sebuah sistem informasi berbasis web yang dirancang untuk membantu perusahaan dalam mengelola data dan aktivitas karyawan secara efisien. Dibangun menggunakan Laravel 11, aplikasi ini mencakup berbagai fitur yang disesuaikan untuk setiap tingkatan peran dalam organisasi, mulai dari karyawan hingga direktur.
+Aplikasi ini merupakan sebuah sistem informasi berbasis web yang dirancang untuk membantu perusahaan dalam mengelola data dan aktivitas karyawan secara efisien. Dibangun menggunakan Laravel 10, aplikasi ini mencakup berbagai fitur yang disesuaikan untuk setiap tingkatan peran dalam organisasi, mulai dari karyawan hingga direktur.
 
 ---
 
@@ -38,7 +38,7 @@ Fitur aplikasi dibagi berdasarkan peran pengguna untuk memastikan keamanan dan r
 ---
 
 ## Teknologi yang Digunakan
-- **Backend:** Laravel 11
+- **Backend:** Laravel 10
 - **Frontend:** Blade Template Engine, Bootstrap 5
 - **Database:** MySQL
 
@@ -108,6 +108,7 @@ Jika Anda memiliki pertanyaan atau ingin terhubung, silakan hubungi saya melalui
 -   **LinkedIn:** [Muhammad Febriansyah](https://www.linkedin.com/in/muhammad-febriansyah-77914131b)
 -   **Instagram:** [@ebbyan_](https://www.instagram.com/ebbyan_)
 -   **X (Twitter):** [@ebbyan_](https://twitter.com/ebbyan_)
+-   **Tiktok:** [@ebbyan_](https://tiktok.com/ebbyan_)
 
 ---
 
